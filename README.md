@@ -1,8 +1,8 @@
 # PGA Sentry Tournament of Champions
 
 ## Environments
-- Preview: https://main--pga-sentry-tournament-of-champions--hlxsites.hlx.page/
-- Live: https://main--pga-sentry-tournament-of-champions--hlxsites.hlx.live/
+- Preview: https://main--franklin-sentry-tournament-of-champions--pgatour.hlx.page/
+- Live: https://main--franklin-sentry-tournament-of-champions--pgatour.hlx.live/
 - Prod: https://thesentry.com/
 
 ## Installation
