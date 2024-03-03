@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# PGA Sentry Tournament of Champions
 
 ## Environments
-- Preview: https://main--franklin-the-players--pgatour.hlx.page/
-- Live: https://main--franklin-the-players--pgatour.hlx.live/
+- Preview: https://main--pga-sentry-tournament-of-champions--hlxsites.hlx.page/
+- Live: https://main--pga-sentry-tournament-of-champions--hlxsites.hlx.live/
+- Prod: https://thesentry.com/
 
 ## Installation
 

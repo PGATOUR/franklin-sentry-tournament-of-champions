@@ -14,7 +14,7 @@ import {
 const placeholders = await fetchPlaceholders();
 const isProd = window.location.hostname.endsWith(placeholders.hostname);
 
-if (!isProd === 'this') {
+if (!isProd) {
   // temporary override for analytics testing
   if (!localStorage.getItem('OptIn_PreviousPermissions')) localStorage.setItem('OptIn_PreviousPermissions', '{"aa":true,"mediaaa":true,"target":true,"ecid":true,"adcloud":true,"aam":true,"campaign":true,"livefyre":false}');
 }

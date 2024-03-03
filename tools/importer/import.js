@@ -218,7 +218,6 @@ export default {
 
     const u = new URL(params.originalURL);
     makeProxySrcs(main, u.origin);
-
     if (u.pathname.startsWith('/tournaments/sentry-tournament-of-champions')) {
       makeAbsoluteLinks(main, 'https://main--pga-sentry-tournament-of-champions--hlxsites.hlx.page', '/tournaments/sentry-tournament-of-champions');
     } else if (u.pathname.startsWith('/tournaments/wgc-dell-technologies-match-play')) {
